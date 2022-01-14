@@ -58,4 +58,4 @@
 |5000|500k|3 Pepe Trophy|God's Dad|15%|
 |7500||Pepe Crown|Level Champ||
 |10k||Literally Karen|DANK MEMER'S LITTLE POGCHAMP||
-|20k||Odd Eye||Odd Player|
+|20k||Odd Eye|Odd Player||
